@@ -2,7 +2,7 @@
 function smart_ifw_menu()
 {
     add_menu_page( __("Smart Icons", "smart_ifw"), __("SmartIcons", "smart_ifw"), 'manage_options', 'smart-icons-for-wordpress', 'smart_ifw_settings_page', SMART_IFW_URL.'/images/menu-icon.png');
-
+	add_submenu_page('smart-icons-for-wordpress', __("Add-ons", "smart_ifw") , __("Add-ons", "smart_ifw") , 'manage_options', 'smart-ifw-pro-addons-page', 'smart_ifw_addons_page');
     
 }
 
