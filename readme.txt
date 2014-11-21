@@ -3,12 +3,14 @@ Contributors: smartpixels, arulpr
 Donate link:       http://www.smartpixels.net
 Tags: font awesome 4,font icons,wordPress icon,shortcode icon fonts,tinymce4,wp editor,4K,4K Icons,retina,retina icons,font awesome,icon fonts,svg icons,vector icons,flaticon,icomoon,animated icons,shadow,radius,animate,css3
 Requires at least: 3.5
-Tested up to: 4.0.0
+Tested up to: 4.0.1
 Stable tag: 1.0.1
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
+** If you have a moment, please do leave a review to the plugin.We need your support and motivation to keep developing awesome plugins for you. **
+
 [Smart Icons For WordPress](http://www.smartpixels.net/?post_type=products&p=499) plugin brings to you 479 SVG icons from Font Awesome. Users can include these icons to posts, pages or custom post types with just a click of a button above wordPress editor (works with tinymce 4).
 
 * Easy to use, no fuzz UI
@@ -52,6 +54,13 @@ https://www.youtube.com/watch?v=NH_X75_T4Xk
 
 For more information on usage and features, check out [smartpixels](http://www.smartpixels.net/?post_type=products&p=499).
 
+**Add-ons**
+
+Add-ons add more functionality to the plugin and offer users more flexibility in choosing the features they need.
+
+[Smarticons Pro Menu Add-on](http://www.smartpixels.net/products/smarticons-wordpress-pro-menu-add/)
+
+https://www.youtube.com/watch?v=RJYfTeKOSOU
 == Installation ==
 
 1. Install Smart Icons For WordPress either via the WordPress.org plugin directory, or by uploading the files to your server
