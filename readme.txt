@@ -9,7 +9,7 @@ License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-** If you have a moment, please do leave a review to the plugin.We need your support and motivation to keep developing awesome plugins for you. **
+**If you have a moment, please do leave a review to the plugin.We need your support and motivation to keep developing awesome plugins for you.**
 
 [Smart Icons For WordPress](http://www.smartpixels.net/?post_type=products&p=499) plugin brings to you 479 SVG icons from Font Awesome. Users can include these icons to posts, pages or custom post types with just a click of a button above wordPress editor (works with tinymce 4).
 
