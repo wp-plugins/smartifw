@@ -3,7 +3,7 @@ Contributors: smartpixels, arulpr
 Donate link:       http://www.smartpixels.net
 Tags: font awesome 4,font icons,wordPress icon,shortcode icon fonts,tinymce4,wp editor,4K,4K Icons,retina,retina icons,font awesome,icon fonts,svg icons,vector icons,flaticon,icomoon,animated icons,shadow,radius,animate,css3
 Requires at least: 3.5
-Tested up to: 4.0.1
+Tested up to: 4.1.0
 Stable tag: 1.0.1
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
