@@ -3,7 +3,7 @@
  * Plugin Name: Smart Icons For Wordpress
  * Plugin URI:  http://www.smartpixels.net
  * Description: Adds beautiful icons to your wordpress website.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Smartpixels
  * Author URI:  http://www,smartpixels.net
  * License:     GPLv2+
@@ -30,7 +30,7 @@
  */
 
 // Useful global constants
-define( 'SMART_IFW_VERSION', '1.0.1' );
+define( 'SMART_IFW_VERSION', '1.0.2' );
 define( 'SMART_IFW_URL',     plugin_dir_url( __FILE__ ) );
 define( 'SMART_IFW_PATH',    dirname( __FILE__ ) . '/' );
 
