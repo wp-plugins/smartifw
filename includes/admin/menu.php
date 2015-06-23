@@ -23,6 +23,7 @@ function smart_ifw_settings_page()
         );
         add_option('_smart_ifw_options', $smart_ifw);
     }
+	if ( current_user_can('manage_options') ){
 ?>
 					
 			<div id="smart-syntax-settings-page" class="wrap smart-ifw">
@@ -176,5 +177,5 @@ function smart_ifw_settings_page()
 	
 </div> <!-- .wrap -->
 	<?php
-    
+	}
 }

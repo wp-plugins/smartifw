@@ -30,7 +30,7 @@
  */
 
 // Useful global constants
-define( 'SMART_IFW_VERSION', '1.0.2' );
+define( 'SMART_IFW_VERSION', '1.0.3' );
 define( 'SMART_IFW_URL',     plugin_dir_url( __FILE__ ) );
 define( 'SMART_IFW_PATH',    dirname( __FILE__ ) . '/' );
 

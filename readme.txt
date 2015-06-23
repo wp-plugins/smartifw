@@ -1,17 +1,17 @@
 === Smart Icons For WordPress ===
 Contributors: smartpixels, arulpr
 Donate link:       http://www.smartpixels.net
-Tags: font awesome 4,font icons,wordPress icon,shortcode icon fonts,tinymce4,wp editor,4K,4K Icons,retina,retina icons,font awesome,icon fonts,svg icons,vector icons,flaticon,icomoon,animated icons,shadow,radius,animate,css3
+Tags: font, awesome, font icon, font icons, font-awesome, font-awesome-more, font awesome, genericon, genericons, glyph, glyphicon, glyphicons, ico, icomoon, ico moon, moon, icon, icon stack, icons, icons stack,flaticon, flat icon, flaticons, flat icons, vector, vectors, vector icon, vector icons, menu, menu icon,menu icons, menus, menus icon, menus icons, nav, navicons, nav icon, navicon, nav icons, navigation icon, navigation icons, responsive, svg, svg icon, svg font icon, twitter, facebook, google, vine, instagram, github, widget, widget icon, widget icons, logo, logo icon, logo icons,social, social media, social icons, social icon, share, share icon, share icons, 4k, 4k icon, 4k icons, retina, retina icon, retina icons, animation, icon animation, icons animation, css3, css3 animation, css3 animations, icon radius, icon shadow
 Requires at least: 3.5
-Tested up to: 4.2.0
-Stable tag: 1.0.2
+Tested up to: 4.2.2
+Stable tag: 1.0.3
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-** If you have a moment, please do leave a review to the plugin.We need your support and motivation to keep developing awesome plugins for you. **
+> If you have a moment, please do leave a review to the plugin.We need your support and motivation to keep developing awesome plugins for you. 
 
-[Smart Icons For WordPress](http://www.smartpixels.net/?post_type=products&p=499) plugin brings to you 479 SVG icons from Font Awesome. Users can include these icons to posts, pages or custom post types with just a click of a button above wordPress editor (works with tinymce 4).
+[Smart Icons For WordPress](http://www.smartpixels.net/?post_type=products&p=499) plugin brings to you 519 icons from Font Awesome. Users can include these icons to posts, pages or custom post types with just a click of a button above wordPress editor (works with tinymce 4).
 
 * Easy to use, no fuzz UI
 
@@ -35,20 +35,21 @@ We also offer a professional version of the plugin that has exclusive features a
 **Smart Icons For WordPress Professional**
 
 https://www.youtube.com/watch?v=qi8zBrzds3I
+> **PRO Features**
 
-* Includes support for import of icon packs from flaticon ( Choose icons packs from largest vector icon database ).
+> * Includes support for import of icon packs from flaticon ( Choose icons packs from largest vector icon database ).
 
-* Includes support for import of customised icon packs from icomoon ( Make your own icon packs from Over 450 handcrafted icons ).
+> * Includes support for import of customised icon packs from icomoon ( Make your own icon packs from Over 450 handcrafted icons ).
 
-* Proprietory code to handle icon delivery.
+> * Proprietory code to handle icon delivery.
 
-* Coloured icons, easily add colour to icons with inbuilt colour picker.
+> * Coloured icons, easily add colour to icons with inbuilt colour picker.
 
-* Seamlessly change icon sizes 
+> * Seamlessly change icon sizes 
 
-* Add animation to icons
+> * Add animation to icons
 
-* Mix colour, size and animation to create millions of unique icon combinations to keep customers engaged with your content. 
+> * Mix colour, size and animation to create millions of unique icon combinations to keep customers engaged with your content. 
 
 https://www.youtube.com/watch?v=NH_X75_T4Xk
 
@@ -88,6 +89,17 @@ Please see the attached instructional video.
 3. Clear Add Icons button above WordPress editor
 
 == Changelog ==
+= 1.0.3 - June 23rd, 2015 =
+* Addition of 40 new icons to the plugin
+* Upgraded to font awesome 4.3
+* Compatibilty with version 4.2.2
+= 1.0.2 - March 5th, 2015 =
+* Compatibility release for 4.2.0
+* New method to insert shortcode into WordPress editor
+= 1.0.1 - Feb 22nd, 2015 =
+* Fixed a css bug
+* Fix for cross origin issue.
+= 1.0.0 - Nov 18th, 2014 =
 * Initial release
 
 == Upgrade Notice ==

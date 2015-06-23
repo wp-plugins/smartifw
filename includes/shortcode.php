@@ -14,9 +14,9 @@ return smart_ifw_icon_render($values, $atts);
 }
 
 	
-function find_attr($attr, $atts) {
+function smart_ifw_find_attr($attr, $atts) {
     $found = false;
-    foreach ($atts as $key => $value) {
+    foreach ((array) $atts as $key => $value) {
         if (is_int($key) && $value === $attr) $found = true;
     }
     return $found;
@@ -27,10 +27,10 @@ function smart_ifw_icon_render($values, $atts) {
 $name =  $values["name"];
 $attr = '';
 
-if (find_attr('radius', $atts) ) {
+if (smart_ifw_find_attr('radius', $atts) ) {
 $attr .= ' radius';
 } 
-if (find_attr('shadow', $atts) ) {
+if (smart_ifw_find_attr('shadow', $atts) ) {
 $attr .= ' shadow';
 } 
   return <<<EOS
