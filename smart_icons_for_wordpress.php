@@ -3,7 +3,7 @@
  * Plugin Name: Smart Icons For Wordpress
  * Plugin URI:  http://www.smartpixels.net
  * Description: Adds beautiful icons to your wordpress website.
- * Version:     1.0.2
+ * Version:     1.0.3
  * Author:      Smartpixels
  * Author URI:  http://www,smartpixels.net
  * License:     GPLv2+
